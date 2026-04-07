@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx @marp-team/marp-cli --version)"
+    ]
+  }
+}
